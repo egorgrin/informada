@@ -501,7 +501,7 @@ hr {
     width: 1px;
     top: 38px;
     left: 50%;
-    height: 100%;
+    bottom: 0;
     background-color: rgba(247, 43, 102, 0.4);
 }
 
@@ -511,7 +511,7 @@ hr {
     width: 11px;
     height: 11px;
     top: 27px;
-    left: 50%;
+    left: 40%;
     transform: translatex(-50%);
     border-radius: 100%;
     background-color: rgba(247, 43, 102, 0.4);
